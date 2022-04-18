@@ -1,0 +1,14 @@
+.foot{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn{
+    padding:5px 10px;
+    color:white;
+    background-color: blue;
+    border-radius:2px;
+    cursor:pointer;
+    margin-left: 10px;
+    border:2px solid white;
+}
